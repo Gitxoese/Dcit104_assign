@@ -1,4 +1,4 @@
-//athaniel Xoese Anku (10947729)
+//Nathaniel Xoese Anku (10947729)
 //I Nathaniel Xoese Anku endorse this code.
 function primeNumAverage(max)
 {
