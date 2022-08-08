@@ -1,14 +1,14 @@
-//Michael-Angelo Obeng-Konadu (10950757)
-//I Michael-Angelo Obeng-Konadu endorse this code.
-//A prpgram to calculate the average os all even number between 1 and n
+//Nathaniel Xoese Anku (10949927)
+//I Nathaniel Xoese Anku endorse this code.
+//A program to calculate the average os all even number between 1 and n
 function even(num){
 let sum = 0;
-let avge;
+let avg;
 for (let i = 2; i <= num; i += 2){
   sum += i;
-  avge = sum/(num/2);
+  avg = sum/(num/2);
 }
-console.log(avge);
+console.log(avg);
 }
 even(10000);
 
