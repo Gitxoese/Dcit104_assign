@@ -1,3 +1,5 @@
+//athaniel Xoese Anku (10947729)
+//I Nathaniel Xoese Anku endorse this code.
 function primeNumAverage(max)
 {
     var store  = [], i, j, primes = []; var sum = 0; var average;
